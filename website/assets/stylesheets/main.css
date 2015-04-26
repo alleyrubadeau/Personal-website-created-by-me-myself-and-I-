@@ -52,12 +52,10 @@ aside {
   border-radius: 20%;
 }
 body {
-  text-align: center;
   background-image: url("assets/images/background.jpg");
 
 }
 a {
-  text-align: center
   font-size: 30px
 }
 li {
@@ -132,4 +130,20 @@ header {
   border: 1px solid purple;
   border radius: 5px;
 
+}
+#applepic {
+  text-align: center;
+  width:450px;
+  height:500px;
+}
+#summerandi {
+  width:304px;
+  height:304px;
+}
+#siblings {
+  width:304px;
+  height:304px;
+}
+.picright {
+  text-align: center;
 }
